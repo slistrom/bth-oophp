@@ -1,27 +1,22 @@
 ---
 title: "Min fina titel"
 ---
-Min me-sida i kursen oophp
+Home sweet home!
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Lite ved till brasan är alltid bra att ha!"]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Detta är min me-sida i kursen oophp. Men vem är Stefan och varför är han här?
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Namnet Stefan betyder krönt, och passar väl in på den självkrönta kungen av Stockholms djupaste betongdjungel. Stefan växte upp i storstadens förorter och migrerade runt i de tre vädersträcken.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Efter att ha springit runt som en tok, hoppat över häckar och svingat sig i stavlianer i kyla, regn och rusk bar det av till varmare breddgrader. I landet ner under sken solens gyllene strålar rakt in i ögonen på den stackars pojken, trots allt kisande fick han dock upp ögonen för den så kallade informations teknologin. Vilket under, vilken potential!
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Det tog några år att banka in tillräckligt i skallen för att han skulle känna sig redo att åter bege sig norrut till de mörka hemvisterna för vikingar, gnyttar och troll. Lagom till att korståget nådde granitens stabila land sprack dock den uppblåsta bubblan. Det var svårt att få kneg på den tiden så Stefan fick driva runt och förlita sig på allmosor från väl sinnade medmänniskor.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Efter vad som kändes en evighet lyckades han hoppa in i hamsterhjulets förgyllda snurra. Där lyckades han koppla in sig direkt i de digitala paketens förtrollade värld. Att likt en dirigent styra runt hela stackens nivåer vart än i världen de skickades blev för Stefan en andra natur. Åren passerade och visdomens fördjupande kan ifrågasättas, men en sak var säker, Stefan kände att något saknades i denna dekonstruerande samhällsstruktur!
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
+Stefan bestämde sig för att bege sig ut på en metamodern resa i de gamla filosofernas fotspår, han frågade sig ifall den digitala legoguden kunde lösa de komplicerade problem vi alla står inför. Svaret låter vänta på sig, men detta är första steget att lära sig bygga en digital närvaro som förhoppningsvis skall leda till Eiffeltornets grandiosa liknelse.
 
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
+Det har gått över 11 trillioner svängningar i atomuren sedan Stefan kom ner till denna jord. Han är nu redo att anta utmaningen att snickra ihop en hemsida eller två. När han inte snickrar på hemsidor befinner han sig i den myggrika skogen i mitten av landet och snickrar på sin lilla stuga tillsammans med hans älskade sambo.
 
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
