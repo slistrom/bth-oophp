@@ -10,7 +10,7 @@ namespace Anax\View;
 //echo showEnvironment(get_defined_vars(), get_defined_functions());
 
 ?>
-<h1>Guess my number</h>
+<h1>Guess my number</h1>
 
 <p>Guess a number between 1 and 100, you have <?= $tries ?> tries left.</p>
 
