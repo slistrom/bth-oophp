@@ -9,7 +9,7 @@ class Dice
     /**
     * @var integer number    The number of the rolled dice.
     */
-    private $sides;
+    protected $sides;
     private $number;
 
     /**
@@ -20,9 +20,9 @@ class Dice
     {
         $this->sides = $sides;
         $this->number = $number;
-        if ($number == null) {
-            $this->roll();
-        }
+//         if ($number == null) {
+//             $this->roll();
+//         }
     }
 
     /**
@@ -32,6 +32,7 @@ class Dice
     public function roll()
     {
         $this->number = rand(1, $this->sides);
+        return $this->number;
     }
 
     /**

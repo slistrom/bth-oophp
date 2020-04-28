@@ -89,8 +89,13 @@ return [
             "title" => "Spela gissa mitt nummer",
         ],
         [
-            "text" => "Dice",
+            "text" => "Dice 1",
             "url" => "dice-game",
+            "title" => "Spela kasta tärning",
+        ],
+        [
+            "text" => "Dice 2",
+            "url" => "dice-game2",
             "title" => "Spela kasta tärning",
         ],
     ],

@@ -82,7 +82,7 @@ $app->router->post("dice/playerroll", function () use ($app) {
 $app->router->post("dice/computerroll", function () use ($app) {
 
     $diceHand = new Lii\Dice\DiceHand(2);
-    for ($x = 0; $x <= 3; $x++) {
+    for ($x = 0; $x < 3; $x++) {
         $diceHand->roll();
         if ($diceHand->contain(1)) {
             $_SESSION["badroll"] = true;
