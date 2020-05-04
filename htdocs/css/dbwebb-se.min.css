@@ -43,3 +43,35 @@
     border-radius: 0.2rem;
     line-height: $line-height;
 }
+
+.thumb {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.moviemenu {
+    margin-bottom: 2rem;
+}
+
+.movieTable {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.movieTable th {
+    text-align: left;
+}
+
+.movieTable td {
+    border-top: 1px solid #ccc;
+}
+
+.movieTable th,
+td {
+    white-space: nowrap;
+    padding: 0.2rem 0.8rem;
+}
+
+.number-cell {
+    text-align: right;
+}
