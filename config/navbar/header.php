@@ -103,5 +103,10 @@ return [
             "url" => "movie",
             "title" => "Movie database",
         ],
+        [
+            "text" => "TextFilter",
+            "url" => "textfiltertest",
+            "title" => "Testing textfilter",
+        ],
     ],
 ];
