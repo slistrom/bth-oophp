@@ -75,3 +75,34 @@ td {
 .number-cell {
     text-align: right;
 }
+
+table {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+}
+
+tr.first {
+    background-color: #ddd;
+}
+
+tr:hover {
+    background-color: #eee;
+}
+
+th {
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+}
+
+th,
+td {
+    padding: 4px;
+}
+
+.error {
+    color: #f00;
+}
+
+.cmsTable {
+    font-size: 0.7rem;
+}
