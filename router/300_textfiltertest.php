@@ -8,10 +8,10 @@
 /**
  * Test different textfilters.
  */
-$app->router->get("textfiltertest/", function () use ($app) {
+$app->router->get("textfiltertest", function () use ($app) {
     $title = "Test textfilters";
 
-    $filter = new \Lii\TextFilter\MyTextFilter();
+    $filter = new Lii\Textfilter\MyTextFilter();
 
 
     // bbcode

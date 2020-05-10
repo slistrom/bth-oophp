@@ -147,6 +147,6 @@ class MyTextFilter
     public function striptags($text)
     {
         return strip_tags($text, "<html><body><b><br><em><hr>"
-        . "<i><li><ol><p><s><span><table><tr><td><u><ul>");
+        . "<i><li><ol><p><s><span><table><tr><td><u><ul><a><strong>");
     }
 }
