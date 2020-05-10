@@ -1,13 +1,13 @@
 <?php
 /**
- * Movie controller.
+ * CMS controller.
  */
 return [
     "routes" => [
         [
-            "info" => "Movie controller.",
-            "mount" => "movie",
-            "handler" => "\Lii\Movie\MovieController",
+            "info" => "CMS controller.",
+            "mount" => "cms",
+            "handler" => "\Lii\CMS\CMSController",
         ],
     ]
 ];
